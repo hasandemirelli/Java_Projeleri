@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="araba">
+  <ClassDiagramComponents>
+    <Class name="insan" package="" visibility="publıc" xPosition="64.0" yPosition="51.0">
+      <Fields>
+        <Field name="untitledField" type="Object" visibility="prıvate"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
